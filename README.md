@@ -103,3 +103,8 @@ By following this approach, the project aims to extract valuable information fro
 
 * Above table display top 10 doctor name who have handled more cases along with their spacility.
 
+![Capture6](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/704d2bf4-343f-4cbf-9f11-1623d91502a5)
+
+
+* Above table express top 50 hospital name base on district attend maximum number of patient.
+
