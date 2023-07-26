@@ -91,5 +91,7 @@ By following this approach, the project aims to extract valuable information fro
   
  ![Capture3](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/8c6427c6-dfdf-428b-b868-6ad13b2154df)
 
+ * Above donut chart clrealy highlighted that most of female gender got benefit through this scheme around 56.4% and than male with 43.6% and transgender 0.002%.
+
 * After observed district I found that high number of cases are coming from Ranchi and low number of cases coming from Jamtara.
 
