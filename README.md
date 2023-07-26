@@ -86,7 +86,8 @@ By following this approach, the project aims to extract valuable information fro
 
 ![Capture2](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/ce0c33e5-91b1-4c7f-b5bf-101ab97dafc8)
 
-* More than one time insurance claim raised family number 22754, claim settle number 18594 and percentage 81.72 through ayushman bharat scheme from various insurance organization.
+* More than one time insurance claim raised family number 22754, claim settle number 18594 and percentage 81.72 through ayushman
+  bharat scheme from various insurance organization.
   
  ![Capture3](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/8c6427c6-dfdf-428b-b868-6ad13b2154df)
 
