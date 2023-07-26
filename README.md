@@ -1,5 +1,23 @@
 # Project Title : Ayushman_Bharat_Healthcare_Claim_Analysis
 
+# Problem Description:
+
+Ayushman Bharat is National Health Protection Scheme, which will cover over 10 crore poor and vulnerable families (approximately 50 crore beneficiaries) providing coverage upto 5 lakh rupees per family per year for secondary and tertiary care hospitalization. Ayushman Bharat - National Health Protection Mission will subsume the on-going centrally sponsored schemes - Rashtriya Swasthya Bima Yojana (RSBY) and the Senior Citizen Health Insurance Scheme (SCHIS).
+Below problem statement we have analyst in this project:
+1. Checking case workflows on different claim status.
+2. Bringing an analysis report card  on family id, gender and patient's home district.
+3. Finding the doctor name who all are handled more cases with respect to speciality.
+4. Building a report of patient rush based on each hospital and district.
+5. What is the maximum and minimum discharge time?
+6. Patient admission count based on different time period.
+7. What is the minimum and maximum time taken for claim settle?
+8. Expressing an observation on paid amount for different hospital based on each district.
+9. Checking patient's pay any additional amount or not for their treatement apart from insurance claim.
+10. Minimum, maximum and average treatement charge analysis.
+11. Monthly investment amount per month and district.
+12. Treatement charge based on different procedure.
+
+
 # OBJECTIVE:
 
 This dataset contain 5 months 15 days information from 1st january to 15th june 2023 about medical insurance claim from variours insurance organization through ayushman bharat scheme in Jharkhand. In this project, we can gain several insights related to healthcare claims. Here are some potential insights we can extract:
