@@ -83,3 +83,7 @@ By following this approach, the project aims to extract valuable information fro
 ![Capture1](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/f6c792dc-a286-488e-8125-323441690b66)
 
 * Above pie chart clearly expressed that 72.52% claim has been paid, 0.03% claim has been cancelled, 9.74% has been approved, 2.16% claim has been under process, 11.42% claim has been yet to be initiated, 2.39% claim has been under query, 1.74% claim has been rejected.
+
+![Capture2](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/ce0c33e5-91b1-4c7f-b5bf-101ab97dafc8)
+
+* More than one time insurance claim raised family number 22754, claim settle number 18594 and percentage 81.72 through ayushman bharat scheme from various insurance organization.
