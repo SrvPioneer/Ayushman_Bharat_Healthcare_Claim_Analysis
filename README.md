@@ -80,5 +80,5 @@ Communication and Reporting: Present the results of the data analysis in a clear
 By following this approach, the project aims to extract valuable information from the healthcare claims dataset and provide actionable insights to enhance the claims management process and support better healthcare service delivery.
 
 # Result: 
-![image1]
+![image1](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/03f493ce-f3a7-4a59-ac82-863f7f02bbc7)
 * Above pie chart clearly expressed that 72.52% claim has been paid, 0.03% claim has been cancelled, 9.74% has been approved, 2.16% claim has been under process, 11.42% claim has been yet to be initiated, 2.39% claim has been under query, 1.74% claim has been rejected.
