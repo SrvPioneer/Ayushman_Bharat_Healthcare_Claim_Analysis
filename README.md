@@ -101,3 +101,5 @@ By following this approach, the project aims to extract valuable information fro
 
 ![Capture5](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/b9d84aef-6165-49e9-8b71-462095e5f11d)
 
+* Above table display top 10 doctor name who have handled more cases along with their spacility.
+
