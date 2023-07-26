@@ -108,3 +108,18 @@ By following this approach, the project aims to extract valuable information fro
 
 * Above table express top 50 hospital name base on district attend maximum number of patient.
 
+* After observation I found that maximum treatement time 130 days 15 hour and minimum 0 days.
+
+![Capture7](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/4d648679-0c62-4064-8c72-264c968db53c)
+
+* Above observation express that maximum number of patient coming from March month and minimum from january month.
+
+
+![Capture8](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/a4b83149-f68d-450d-9721-dc32cbbda5ef)
+
+* After analysis of patient admission based on different month and day, I can say that date of 13th is the highest patient count and day of 31st is low.
+
+* After analysing claim history I found that maximum 101 days can be taken for claim settle and minimum same day.
+
+* After analysing of difference between "Claim Paid Amount" and "Amount paid to Hospital", I found that minimum and maximum differnce is zero. It means that patient's not paid any aditional amount for their treatement without insurance claim.
+
