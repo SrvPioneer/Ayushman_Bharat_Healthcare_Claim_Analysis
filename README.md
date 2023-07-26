@@ -99,3 +99,5 @@ By following this approach, the project aims to extract valuable information fro
 
 * After observed district I found that high number of cases are coming from Ranchi and low number of cases coming from Jamtara.
 
+![Capture5](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/b9d84aef-6165-49e9-8b71-462095e5f11d)
+
