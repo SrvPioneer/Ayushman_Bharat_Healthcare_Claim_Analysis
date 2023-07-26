@@ -124,6 +124,8 @@ By following this approach, the project aims to extract valuable information fro
 ![Capture9](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/913fa071-1853-4bd8-bd8c-8ccbac9c678a)
 
 * Above analysis express about minimum, maximum and avegare treatement amount also, monthly tratement budget as per different district
+
+![Capture10](https://github.com/SrvPioneer/Ayushman_Bharat_Healthcare_Claim_Analysis/assets/93809665/dd9e3615-f567-49bd-a7f4-c4d5b345e594)
   
-* 
+* Above table clearly talk about top 10 procedure based on claim paid amount.
 
